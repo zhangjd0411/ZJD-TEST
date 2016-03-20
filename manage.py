@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# TEST-------------------
 import os
 COV = None
 if os.environ.get('FLASK_COVERAGE'):
